@@ -7,7 +7,7 @@
 - Deformable Convolution v2 (DCNv2), we adopt [CharlesShang's implementation](https://github.com/CharlesShang/DCNv2). (see and compile DCNv2/make.sh) 
 - Python packages: numpy,opencv-python,dgl
 # Pretrained model
-Please download the [pretrained model](http://data.csail.mit.edu/tofu/dataset/vimeo_septuplet.zip), and put it under weights/pretrained/
+Please download the [pretrained model](https://drive.google.com/file/d/1fYM_PMQof-XFRFaw9LV2z7MI4X4L22al/view?usp=sharing), and put it under weights/pretrained/
 
 # Main experiment
 
