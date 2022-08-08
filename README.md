@@ -12,3 +12,14 @@ Please download the [pretrained model](https://drive.google.com/file/d/1fYM_PMQo
 # Main experiment
 
 see [python main_STINet.py]
+
+
+# Citation
+```
+@article{yue2022enhancing,
+  title={Enhancing Space-time Video Super-resolution via Spatial-temporal Feature Interaction},
+  author={Yue, Zijie and Shi, Miaojing and Ding, Shuai and Yang, Shanlin},
+  journal={arXiv preprint arXiv:2207.08960},
+  year={2022}
+}
+```
