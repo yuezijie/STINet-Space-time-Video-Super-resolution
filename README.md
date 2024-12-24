@@ -1,4 +1,5 @@
 This is the code base for paper [Enhancing Space-time Video Super-resolution via Spatial-temporal Feature Interaction](https://arxiv.org/abs/2207.08960)
+(Neural Network, 2024)
 
 # Prepare data
   Please download the dataset, i.e., [Vimeo-90K Septuplet Dataset](http://data.csail.mit.edu/tofu/dataset/vimeo_septuplet.zip), and put it under datasets/
@@ -18,10 +19,12 @@ see [python main_STINet.py]
 
 # Citation
 ```
-@article{yue2022enhancing,
-  title={Enhancing Space-time Video Super-resolution via Spatial-temporal Feature Interaction},
-  author={Yue, Zijie and Shi, Miaojing and Ding, Shuai and Yang, Shanlin},
-  journal={arXiv preprint arXiv:2207.08960},
-  year={2022}
+@article{yue2024enhancing,
+  title={Enhancing space--time video super--resolution via spatial--temporal feature interaction},
+  author={Yue, Zijie and Shi, Miaojing},
+  journal={Neural Networks},
+  pages={107033},
+  year={2024},
+  publisher={Elsevier}
 }
 ```
